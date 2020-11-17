@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: wordcloud.png
 category: Services
-title: Photos!
+title: About me!
 description: |
 ---
 As a way to describe myself, from others perspective, I asked my family and friends to describe me in five words. 
