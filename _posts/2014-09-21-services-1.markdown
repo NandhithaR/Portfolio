@@ -1,6 +1,6 @@
 ---
 layout: default
-img: chart.png
+img: chart_cloud.png
 category: Services
 title: About me
 description: |
