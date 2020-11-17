@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+[(dog.png  "Let's check Nandhitha's profile page")](https://github.com/NandhithaR)
 category: Services
 title: Technology
 description: |
