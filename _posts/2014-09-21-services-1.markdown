@@ -5,4 +5,5 @@ category: Services
 title: Photos!
 description: |
 ---
-  I love to travel and take photos. You can find some of the photos I've taken and a brief description of what it is over here
+As a way to describe myself, from others perspective, I asked my family and friends to describe me in five words. 
+I generated this word cloud as a result
