@@ -1,6 +1,6 @@
 ---
 layout: default
-img: wordcloud.png
+img: download.png
 category: Services
 title: About me!
 description: |
