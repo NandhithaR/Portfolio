@@ -1,6 +1,7 @@
 ---
 layout: default
 img: phones.png
+img: ipad.png
 category: Services
 title: Interests
 description: |
@@ -8,4 +9,4 @@ description: |
 Read \
 Paint \
 Photography \
-Travel \
+Travel 
