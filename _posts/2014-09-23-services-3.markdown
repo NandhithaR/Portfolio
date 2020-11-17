@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: hobby.jpg
 category: Services
 title: Interests
 description: |
