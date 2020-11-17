@@ -5,5 +5,5 @@ category: Services
 title: About me
 description: |
 ---
-As a way to describe myself, from others perspective, I asked my family and friends to describe me in five words. 
+As a way to describe myself, I asked my family and friends to describe me in five words. 
 I generated this word cloud as a result
