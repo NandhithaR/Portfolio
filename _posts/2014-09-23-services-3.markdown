@@ -1,13 +1,8 @@
 ---
 layout: default
-img: 
-- phones.png
-- ipad.png
+img: phones.png
 category: Services
 title: Interests
 description: |
 ---
-Read \
-Paint \
-Photography \
-Travel 
+![alt text](ipad.png "Title")
