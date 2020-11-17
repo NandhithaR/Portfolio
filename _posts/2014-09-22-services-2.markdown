@@ -1,9 +1,9 @@
 ---
 layout: default
-img: [(dog.png)](https://github.com/NandhithaR)
+img: dog.png
 category: Services
 title: Technology
 description: |
 ---
-  Today,technology is ubiquitous. Having grown up in a technology driven world, I have a facination for numbers and computers. I pursued my undergraduate in Computer Science in India and now pursuing a Masters in Information Systems. I love looking at different products and understanding why they are designed the way they are. I also enjoy learning new programming languages and am always working on a new project. 
-  You can find some of my work here and read a little about my expereince here.
+  Today, technology is ubiquitous. Having grown up in a technology driven world, I have a facination for numbers and computers. I pursued my undergraduate in Computer Science in India and now pursuing a Masters in Information Systems. I love looking at different products and understanding why they are designed the way they are. I also enjoy learning new programming languages and am always working on a new project. 
+  You can find some of my work here and read a little about my expereince here https://github.com/NandhithaR
