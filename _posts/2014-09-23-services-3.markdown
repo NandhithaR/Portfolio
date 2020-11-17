@@ -5,4 +5,4 @@ category: Services
 title: Interests
 description: |
 ---
-[ipad.png]
+![image info](ipad.png)
