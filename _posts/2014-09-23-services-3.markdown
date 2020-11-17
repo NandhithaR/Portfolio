@@ -5,4 +5,5 @@ category: Services
 title: Interests
 description: |
 ---
-![Ipad Image](phones.png)
+I love to read, paint and clicking pictures
+You can find some of my photos in this album
