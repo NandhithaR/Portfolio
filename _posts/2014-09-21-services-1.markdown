@@ -4,18 +4,19 @@ img: work_exp.jpg
 category: Experience
 title: Experience
 ---
+
+<b>Goldman Sachs</b>
+
+Over the summer, I was a Summer Analyst at Goldman Sachs for the Engineering division.
+
 <b>Fidelity Investments</b>
 
 I worked as a Software Engineer for the Customer Relationship Manager Team, for 2 years. 
 Developed novel end-to-end features in C# for CRM application used by 20k+ customer service representatives.
-Coordinated with different teams to enable service integration into application.
-Led monthly production validations of new and existing features maintaining at least 85% test coverage.
-Awarded best prototype for improving service by identifying sentiment in real-time support calls using AWS services.
+I coordinated with different teams to enable service integration into application.
 
 <b>New York University – NYU Wagner<b>
 
-Performed data mining to improve admissions and student placements using Pandas and NumPy.
-Cleaned Salesforce database by eliminating redundancies using fuzzy matching.
-Enhanced Wagner chatbot by automating training data generation and adding the ability to summarize long responses.
-Assist in web technology related activities for websites maintained by Wagner, used REST API and Drupal.
+I performed data mining to improve admissions and student placements using Pandas and NumPy. I also,
+enhanced Wagner's chatbot by automating training data generation and adding the ability to summarize long responses.
 
