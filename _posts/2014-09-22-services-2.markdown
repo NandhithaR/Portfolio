@@ -6,23 +6,27 @@ title: Projects
 description: |
 ---
 
-Bibliometric Analysis of Research Papers
-• Analyzed papers based on number of citations, authors, keywords, publications and H-index using SparkSQL
-• Calculated Page Rank of authors and papers giving insights such as potential co-authors and field of research
-• Leveraged GraphX and Graphframes to create a network of graphs such as field of study and authors to derive
+<b>Bibliometric Analysis of Research Papers</b>
+
+Analyzed papers based on number of citations, authors, keywords, publications and H-index using SparkSQL
+Calculated Page Rank of authors and papers giving insights such as potential co-authors and field of research
+Leveraged GraphX and Graphframes to create a network of graphs such as field of study and authors to derive
 information such as authors who have contributed to more than one field of study
 
-Music View Predictor
-• Collected data using Spotify, YouTube and Twitter APIs, formatted and stored them in MongoDB
-• Modeled using various Regression Analysis techniques such as Ridge Regression, Lasso Regression and Logistic
+<b>Music View Predictor</b>
+
+Collected data using Spotify, YouTube and Twitter APIs, formatted and stored them in MongoDB
+Modeled using various Regression Analysis techniques such as Ridge Regression, Lasso Regression and Logistic
 Regression coded in Python
 
-Story Ending Generation
-• Collected data using Spotify, YouTube and Twitter APIs, formatted and stored them in MongoDB
-• Modeled using various Regression Analysis techniques such as Ridge Regression, Lasso Regression and Logistic
+<b>Story Ending Generation</b>
+
+Collected data using Spotify, YouTube and Twitter APIs, formatted and stored them in MongoDB
+Modeled using various Regression Analysis techniques such as Ridge Regression, Lasso Regression and Logistic
 Regression coded in Python
 
-AppEase
-• Collected data using Spotify, YouTube and Twitter APIs, formatted and stored them in MongoDB
-• Modeled using various Regression Analysis techniques such as Ridge Regression, Lasso Regression and Logistic
+<b>AppEase</b>
+
+Collected data using Spotify, YouTube and Twitter APIs, formatted and stored them in MongoDB
+Modeled using various Regression Analysis techniques such as Ridge Regression, Lasso Regression and Logistic
 Regression coded in Python
