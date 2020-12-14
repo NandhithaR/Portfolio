@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: work_exp.jpg
 category: Experience
 title: Experience
 ---
