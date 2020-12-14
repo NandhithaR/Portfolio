@@ -10,33 +10,22 @@ description: |
 
 [Link to repo](https://github.com/NandhithaR/ResearchPaperAnalysis)
 
-Analyzed papers based on number of citations, authors, keywords, publications and H-index using SparkSQL.
-Calculated Page Rank of authors and papers giving insights such as potential co-authors and field of research.
-Leveraged GraphX and Graphframes to create a network of graphs such as field of study and authors to derive
-information such as authors who have contributed to more than one field of study.
+Beginner’s guide to the field of Big Data by analyzing research papers
 
 <b>Music View Predictor</b>
 
 [Link to repo](https://github.com/NandhithaR/MusicViewPredictor)
 
-Collected data using Spotify, YouTube and Twitter APIs, formatted and stored them in MongoDB.
-Modeled using various Regression Analysis techniques such as Ridge Regression, Lasso Regression and Logistic.
-Regression coded in Python.
+Predict the number of YouTube views a song will receive
 
 <b>Story Ending Generation</b>
 
 [Link to repo](https://github.com/srish-bhargava/myStoryEnding)
 
 Generate story endings based on a given target sentiment.
-There were 2 components to the project, a sentiment analyzer and a text generator.
-The Sentiment Analyzer is a pre-trained BERT model fine tuned on IMDb and Yelp dataset.
-Text generation was done using GPT-2 with a perplexity of 10.
-GPT-2 was further fine tuned using Proximal Policy Optimization to ensure the generated ending is pertaining to the sentiment.
 
 <b>AppEase</b>
 
 [Link to repo](https://github.com/vidit23/AppEase)
 
-Developed a watchOS application for children, which detects real time biometrics and heart rate data and notifies the child to either 
-play a game, contact someone or listen to calming music when they have a panic attack.
-Built an end-to-end application in Django and React for doctors and parents to monitor the child's information.
+iWatch Application to calm children down when they have anxiety attacks
