@@ -5,7 +5,7 @@ category: Experience
 title: Experience
 description: |
 ---
-<h3>Fidelity Investments</h3>
+<b>Fidelity Investments</b>
 
 I worked as a Software Engineer for the Customer Relationship Manager Team, for 2 years. 
 
