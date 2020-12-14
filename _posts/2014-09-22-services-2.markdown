@@ -22,7 +22,7 @@ Predict the number of YouTube views a song will receive
 
 [Link to repo](https://github.com/srish-bhargava/myStoryEnding)
 
-Generate story endings based on a given target sentiment.
+Generate story endings based on a given target sentiment
 
 <b>AppEase</b>
 
