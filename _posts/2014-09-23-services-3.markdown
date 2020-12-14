@@ -1,9 +1,9 @@
 ---
 layout: default
 img: hobby.jpg
-category: Services
-title: Interests
+category: Certifications
+title: Certifications
 description: |
 ---
-I love to read, paint and click pictures
-You can find some of my photos in this [album](https://photos.app.goo.gl/kT7kbZ57Xuf8D5eG9)
+Google Adwords Cartification [Google Ads](https://skillshop.exceedlms.com/student/award/62665031)
+Google Analytics Certification [Google Analytics](https://skillshop.exceedlms.com/student/award/62680805)
