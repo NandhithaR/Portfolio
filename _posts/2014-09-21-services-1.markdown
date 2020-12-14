@@ -1,9 +1,22 @@
 ---
 layout: default
 img: chart_cloud.png
-category: Services
-title: About me
+category: Experience
+title: Experience
 description: |
 ---
-As a way to describe myself, I asked my family and friends to describe me in five words. 
-I generated this word cloud as a result
+Fidelity Investments
+
+I worked as a Software Engineer for the Customer Relationship Manager Team, for 2 years. 
+
+Developed novel end-to-end features in C# for CRM application used by 20k+ customer service representatives.
+
+Coordinated with different teams to enable service integration into application.
+
+Led monthly production validations of new and existing features maintaining at least 85% test coverage.
+
+Awarded best prototype for improving service by identifying sentiment in real-time support calls using AWS services.
+
+Goldman Sachs
+
+Summer Analyst for Engineering Division. 

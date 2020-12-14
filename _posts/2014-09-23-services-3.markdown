@@ -6,4 +6,5 @@ title: Certifications
 description: |
 ---
 Google Adwords Cartification [Google Ads](https://skillshop.exceedlms.com/student/award/62665031)
+
 Google Analytics Certification [Google Analytics](https://skillshop.exceedlms.com/student/award/62680805)
