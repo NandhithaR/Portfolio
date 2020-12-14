@@ -2,7 +2,6 @@
 layout: default
 category: Experience
 title: Experience
-description: |
 ---
 <b>Fidelity Investments</b>
 
@@ -14,8 +13,8 @@ Awarded best prototype for improving service by identifying sentiment in real-ti
 
 <b>New York University – NYU Wagner<b>
 
-• Performed data mining to improve admissions and student placements using Pandas and NumPy
-• Cleaned Salesforce database by eliminating redundancies using fuzzy matching
-• Enhanced Wagner chatbot by automating training data generation and adding the ability to summarize long responses
-• Assist in web technology related activities for websites maintained by Wagner, used REST API and Drupal
+Performed data mining to improve admissions and student placements using Pandas and NumPy
+Cleaned Salesforce database by eliminating redundancies using fuzzy matching
+Enhanced Wagner chatbot by automating training data generation and adding the ability to summarize long responses
+Assist in web technology related activities for websites maintained by Wagner, used REST API and Drupal
 
