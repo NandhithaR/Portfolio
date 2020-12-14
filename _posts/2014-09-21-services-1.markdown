@@ -1,6 +1,5 @@
 ---
 layout: default
-img: chart_cloud.png
 category: Experience
 title: Experience
 description: |
