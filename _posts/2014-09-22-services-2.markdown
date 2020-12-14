@@ -1,6 +1,6 @@
 ---
 layout: default
-img: banner-bg.jpg
+img: certifications.jpg
 category: Services
 title: Projects
 description: |

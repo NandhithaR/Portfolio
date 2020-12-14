@@ -1,6 +1,6 @@
 ---
 layout: default
-img: certifications.jpg
+img: intro-bg.jpg
 category: Certifications
 title: Certifications
 description: |
