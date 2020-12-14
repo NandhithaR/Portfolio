@@ -25,10 +25,10 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 
-# social:
-#   - title: twitter
-#     url: https://twitter.com/nandhitha95
-#   - title: github
-#     url: https://github.com/NandhithaR/
-#   - title: linkedin
-#     url: https://www.linkedin.com/in/nandhithar/
+social:
+  - title: twitter
+    url: https://twitter.com/nandhitha95
+  - title: github
+    url: https://github.com/NandhithaR/
+  - title: linkedin
+    url: https://www.linkedin.com/in/nandhithar/
